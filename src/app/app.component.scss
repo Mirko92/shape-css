@@ -181,6 +181,7 @@ div{
     content: '';
     position: absolute;
     top: -80px;
+    left: 0;
     border-left: 70px solid transparent;
     border-right: 70px solid transparent;
     border-bottom: 70px solid red;
@@ -193,6 +194,7 @@ div{
     content: '';
     position: absolute;
     top: 100px;
+    left: 0;
     border-left: 70px solid transparent;
     border-right: 70px solid transparent;
     border-top: 70px solid red;
